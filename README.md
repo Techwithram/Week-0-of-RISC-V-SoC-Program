@@ -157,7 +157,7 @@ make test
 ```
 
 ## 🗃️ Task 3 : Github Repo Creation
-- [Week 0 Repo]{https://github.com/Techwithram/Week-0-of-RISC-V-SoC-Program)
+- [Week 0 Repo](https://github.com/Techwithram/Week-0-of-RISC-V-SoC-Program)
 - [Main Repo - Overview ](https://github.com/Techwithram/RISC-V-SOC-Tapeout-Program)
 - Week 1 : Coming Soon
 
